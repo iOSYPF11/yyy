@@ -20,6 +20,9 @@
     
     UIView *v = [[UIView alloc] init];
     [self.view addSubview:v];
+    
+    
+//    “：：：：：：：
 }
 
 
